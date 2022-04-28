@@ -1,2 +1,2 @@
-# Sukriti-m-Sukriti-CSI-College_website
+# Vista College
 A college website.
